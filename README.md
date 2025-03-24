@@ -4,26 +4,27 @@ Hi I'm Walter Dudnic
 - 🌱 I’m currently learning Javascript...
 - 😄 Pronouns: he/him...
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Walttinhu&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Walttinhu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Walttinhu&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walttinhu&layout=compact&theme=dracula)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Walttinhu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Walttinhu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Walttinhu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Walttinhu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Walttinhu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Walttinhu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+<div align="left">
   
+  <h2>Github Stats</h2>
+ 
+  <div style="display: flex; flex-direction: row; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Walttinhu&show_icons=true&theme=dracula" alt="GitHub Stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walttinhu&layout=compact&theme=dracula" alt="Top Languages" height="165"/>
+  </div>
+
+  <br>
+
+ <h2>My Stack</h2>
+  <div style="display: flex; gap: 15px; padding-top: 10px;">
+    <img alt="Walttinhu-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Walttinhu-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Walttinhu-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="Walttinhu-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Walttinhu-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+
 </div>
+
+
+
